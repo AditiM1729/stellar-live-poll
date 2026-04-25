@@ -123,7 +123,6 @@ VITE_CONTRACT_ID=C...YOUR_CONTRACT_ID...
 | **Transaction Hash** | `60ca23993a549128196e7c5d1db307f3b7b39fcbcd685d2806f03d7d4c5323de` |
 | **Network** | Stellar Testnet |
 | **Explorer** | [View Contract](https://stellar.expert/explorer/testnet/contract/CCRTVBKPUONMPP3XNXLG3SUV5SBO2WK23G3DORWJM6VCT6EWHIKUSGDM) |
-| **Live Demo** | [Deployed on Vercel](https://YOUR_VERCEL_URL.vercel.app) |
 
 ---
 
