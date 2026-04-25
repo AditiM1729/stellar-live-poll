@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables (keep secret)
+.env
+
+# Rust/Cargo build artifacts
+contracts/poll/target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vite cache
+.vite/
